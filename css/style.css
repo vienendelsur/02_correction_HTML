@@ -1,0 +1,31 @@
+/* mes styles  */
+body {
+    background: pink;
+    font-family: 'Merienda', cursive;
+}
+
+/* des couleurs pour voir les rangées, les col, etc. */
+
+.orange {
+    background: orange;
+}
+
+.bleuclair {
+    background: lightblue;
+}
+
+.vertclair {
+    background: lightgreen;
+}
+
+.grisclair {
+    background: lightgrey;
+}
+
+.navbar a {
+    color: white;
+}
+
+.jumbotron {
+    background: lightgreen;
+}
